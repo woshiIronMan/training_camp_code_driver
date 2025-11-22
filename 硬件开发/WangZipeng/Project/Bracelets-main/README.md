@@ -1,5 +1,7 @@
 # Bracelets：视障者辅助智能手环
 
+##### 项目原地址:[https://github.com/wuming082/Bracelets](https://github.com/wuming082/Bracelets)
+
 > **Bracelets** 是一款面向视障人群的智能穿戴设备，通过 **触觉反馈（震动）+ 无线通信（UDP / ESP-NOW）** 实现环境交互与远程提示功能。目标是提升独立出行与日常操作的安全性与便捷性。
 
 ![Bracelets V2 外观](/硬件开发/WangZipeng/Project/Bracelets-main/images/watch_new.jpg)
