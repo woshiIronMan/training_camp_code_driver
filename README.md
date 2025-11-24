@@ -90,12 +90,11 @@ PR 是 GitHub 上请求将你的代码**合并到主仓库**的标准流程。�
 1. **[点击这里新建 Issue](https://github.com/CodeDriverTech/training_camp_code_driver/issues/new)**  
 2. 在 **Issue 正文** 中按格式填写（示例）：
    ```text
-   人工智能: ZhangSan
+   -添加成员- 人工智能: ZhangSan
    ```
    > 支持的方向：`人工智能`、`硬件开发`、`网络安全`、`软件开发` 
    ![guide](/images/issue-guide.png) 
-3. 选择`add-contributor`标签 **这一步很重要！**
-4. 提交后，管理员审核通过（打上 `approved` 标签），系统将**自动为你创建个人目录** 
+3. 提交后，管理员审核通过（打上 `approved` 标签），系统将**自动为你创建个人目录** 
 
 > 提示：无需 Fork 或手动创建文件夹，一切自动化完成
 
